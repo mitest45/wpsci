@@ -1,0 +1,280 @@
+# Copyright (C) 2023 WP Self Check-In Pro
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mphb-invoices\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-01-31T13:29:59+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+
+#. Plugin Name of the plugin
+msgid "WP Self Check-In Pro"
+msgstr "WP Self Check-In Pro"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "First Name"
+msgstr "Nome di battesimo"
+
+msgid "Last Name"
+msgstr "Cognome"
+
+msgid "Surname"
+msgstr "Cognome"
+
+msgid "Sex"
+msgstr "Sesso"
+
+msgid "Date of Birth"
+msgstr "Data di nascita"
+
+msgid "Country"
+msgstr "Paese"
+
+msgid "Provinces"
+msgstr "Province"
+
+msgid "Municipalities"
+msgstr "Comuni"
+
+msgid "House"
+msgstr "Casa"
+
+msgid "Citizenship"
+msgstr "Cittadinanza"
+
+msgid "Document Type"
+msgstr "tipo di documento"
+
+msgid "Document Number"
+msgstr "Numero del documento"
+
+msgid "Place of Issue of Document"
+msgstr "Luogo di emissione del documento"
+
+msgid "Document Image"
+msgstr "Immagine del documento"
+
+msgid "Serial"
+msgstr "Seriale"
+
+msgid "Guest Information"
+msgstr "Informazioni per gli ospiti"
+
+msgid "Guest Information for Booking"
+msgstr "Informazioni per gli ospiti per la prenotazione"
+
+msgid "Required fields are followed by"
+msgstr "I campi obbligatori sono seguiti da"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Edit"
+msgstr "Modificare"
+
+msgid "Update"
+msgstr "Aggiornamento"
+
+msgid "Guest Information has not added"
+msgstr "Le informazioni sugli ospiti non sono state aggiunte"
+
+msgid "Country of Birth"
+msgstr "Paese di nascita"
+
+msgid "Click here to Add"
+msgstr "Fare clic qui per aggiungere"
+
+msgid "Select"
+msgstr "Selezionare"
+
+msgid "Male"
+msgstr "Maschia"
+
+msgid "Female"
+msgstr "Femmina"
+
+msgid "Add Guest Information for Booking"
+msgstr "Aggiungi informazioni sugli ospiti per la prenotazione"
+
+msgid "Province of Birth"
+msgstr "Provincia di nascita"
+
+msgid "Municipality of Birth"
+msgstr "Comune di Nascita"
+
+msgid "Guest information link"
+msgstr "Link informazioni per gli ospiti"
+
+msgid "Download"
+msgstr "Scaricamento"
+
+msgid "Add Guest Info"
+msgstr "Aggiungi informazioni sull'ospite"
+
+msgid "Guest Type"
+msgstr "Tipo di ospite"
+
+msgid "Upload document image"
+msgstr "Carica l'immagine del documento"
+
+msgid "Copied"
+msgstr "Copiato"
+
+msgid "Copy URL"
+msgstr "Copia URL"
+
+msgid "Province of Issue Document"
+msgstr "Documento provinciale di emissione"
+
+msgid "Municipality of Issue Document"
+msgstr "Documento del Comune di emissione"
+
+msgid "Shortcode for this plugin"
+msgstr "Shortcode per questo plugin"
+
+msgid "Plugin Enable/Disable"
+msgstr "Plugin Abilita/Disabilita"
+
+msgid "Enable"
+msgstr "Abilita"
+
+msgid "Disable"
+msgstr "Disabilita"
+
+msgid "Plugin Settings"
+msgstr "Impostazioni del plug-in"
+
+msgid "Select Public Page"
+msgstr "Seleziona Pagina pubblica"
+
+msgid "Manage Guests Information with WP Self Check-In Plugin."
+msgstr ""
+"Gestisci le informazioni degli ospiti con il plug-in per il WP Self "
+"Check-In."
+
+msgid "Page Not Found"
+msgstr "Pagina non trovata"
+
+msgid "WP Self Check-In Receipt"
+msgstr "WP Self Check-In Ricevuta"
+
+msgid "Upload Receipt"
+msgstr "Carica ricevuta"
+
+msgid "Download Receipt"
+msgstr "Scarica la ricevuta"
+
+msgid "Upload document front image"
+msgstr "Carica l'immagine anteriore del documento"
+
+msgid "Upload document back image"
+msgstr "Carica l'immagine posteriore del documento"
+
+msgid "Remove"
+msgstr "Rimuovere"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Overview"
+msgstr "Panoramica"
+
+msgid "Create Check-In"
+msgstr "Crea check-in"
+
+msgid "Booking"
+msgstr "Prenotazione"
+
+msgid "First Guest Name"
+msgstr "Nome del primo ospite"
+
+msgid "Arrival Date"
+msgstr "Data d'arrivo"
+
+msgid "Departure Date"
+msgstr "Data di partenza"
+
+msgid "Action"
+msgstr "Azione"
+
+msgid "First Guest Surname"
+msgstr "Primo Ospite Cognome"
+
+msgid "Number of Guests"
+msgstr "Numero di invitati"
+
+msgid "Overview List"
+msgstr "Elenco generale"
+
+msgid "Overview Details"
+msgstr "Panoramica Dettagli"
+
+msgid "Back"
+msgstr "Indietro"
+
+msgid "Default Template"
+msgstr "Modello predefinito"
+
+msgid "Subject"
+msgstr "Soggetto"
+
+msgid "Header"
+msgstr "Intestazione"
+
+msgid "Message"
+msgstr "Messaggio"
+
+msgid "Footer"
+msgstr "Piè di pagina"
+
+msgid "Email Template"
+msgstr "Email Modello"
+
+msgid "Document Upload Field"
+msgstr "Campo caricamento documento"
+
+msgid "Add Row"
+msgstr "Aggiungi riga"
+
+msgid "Remove Files"
+msgstr "Rimuovi file"
+
+msgid "Booking ID not available"
+msgstr "Booking ID non disponibile"
+
+msgid "First Guest Phone"
+msgstr "Primo telefono ospite"
+
+msgid "First Guest Email"
+msgstr "Primo ospite email"
+
+msgid "Total Guests"
+msgstr "Ospiti totali"
+
+msgid "Notification"
+msgstr "Notifica"
+
+msgid "Add-on"
+msgstr "Aggiungi su"
+
+msgid "Get form link with following email tag"
+msgstr "Ottieni il collegamento al modulo con il seguente tag e-mail"
+
+msgid "Trash"
+msgstr "Cestina"
+
+msgid "Delete"
+msgstr "Cestina"
+
+msgid "Notify"
+msgstr "Notificare"
+
+msgid "Shortcode for Public Page"
+msgstr "Shortcode per la pagina pubblica"
