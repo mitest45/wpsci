@@ -24,7 +24,7 @@ require_once WPSCI_PLUGIN_PATH . 'init.php';
  */
 require plugin_dir_path( __FILE__ ).'plugin-update-checker/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-	'https://github.com/iamsajidjaved/Auto-update-WordPress-plugin-or-Theme-from-Github',
+	'https://github.com/mitest45/wpsci',
 	__FILE__,
 	'FunPlugin'
 );
@@ -33,7 +33,7 @@ $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 $myUpdateChecker->setBranch('main');
 
 //Optional: If you're using a private repository, specify the access token like this:
-$myUpdateChecker->setAuthentication('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');
+$myUpdateChecker->setAuthentication('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');
 
 
 // Define custom email tags

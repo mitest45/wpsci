@@ -29,6 +29,9 @@ Firstly just create any page and add the shortcode to it then assign the page fr
 
 == Changelog ==
 
+= 1.0.3 =
+* License update
+
 = 1.0.1 =
 * Released version
 * Manage your hotel booking seamlessly

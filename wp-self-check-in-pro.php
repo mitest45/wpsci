@@ -12,7 +12,7 @@
  * Plugin Name: WP Self Check-In Pro
  * Plugin URI:  #
  * Description: Manage your hotel bookings and guests information seamlessly with WP Self Check-In Pro plugin.
- * Version:     1.0.1
+ * Version:     1.0.3
  * Author:      Rocco
  * Author URI:  #
  * Text Domain: wp-self-check-in
