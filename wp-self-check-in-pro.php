@@ -20,7 +20,7 @@
  * License:     GPL v2 or later
  * Tested up to: 6.5.3
  */
-
+ 
 if (!defined('ABSPATH')) {
     exit; // Exit if accessed directly.
 }
